@@ -1,4 +1,5 @@
 Detecção de estruturas MQ (Mínimos Quadrado)
+============================================
 
 Este algoritmo tem a finalidade de encontra a estrutura usando mínimos quadrados. Não sendo necessário parâmetro de entrada para o ruído em que a estimativa de função de ordem 2.
 
